@@ -11,7 +11,7 @@ class AIEngineer:
     def __init__(self):
         self.name = "Owolabi Daniel"
         self.role = "Artificial Intelligence Engineer"
-        self.language_spoken = [""en_US"]
+        self.language_spoken = ["en_US"]
 
     def say_hi(self):
         print("I sincerely appreciate your visit and sincerely hope that you discover elements of my creations that captivate your interest.")
