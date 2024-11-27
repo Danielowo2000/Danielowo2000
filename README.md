@@ -14,7 +14,7 @@ class AIEngineer:
         self.language_spoken = ["en_US"]
 
     def say_hi(self):
-        print("I sincerely appreciate your visit and sincerely hope that you discover elements of my creations that captivate your interest.")
+        print("I sincerely appreciate your visit and hope that you discover elements of my creations that captivate your interest.")
 
 
 me = AIEngineer()
