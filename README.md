@@ -50,7 +50,20 @@ me.say_hi()
 
 ![Kubernetes](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=6aa6f8)
 ![Docker](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=6aa6f8)
-
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=amazon-dynamodb&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![NumPy](https://img.shields.io/badge/Numpy-013243?style=flat&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-262577?style=flat&logo=matplotlib&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)
 
 ## 🏆 GitHub Trophies
 
