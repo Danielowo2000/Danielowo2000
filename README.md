@@ -14,7 +14,7 @@ class AIEngineer:
         self.language_spoken = ["en_US"]
 
     def say_hi(self):
-        print("Bow before me, for your very soul shall be consumed by the twisted horrors of my creations.")
+        print("👋")
 
 
 me = AIEngineer()
