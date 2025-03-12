@@ -13,8 +13,8 @@ class AIEngineer:
         self.role = "Artificial Intelligence Engineer"
         self.language_spoken = ["en_US"]
 
-    def say_something(self):
-        print("I haven't seen the sun in seven days like I have been doing time.")
+    def say_hi(self):
+        print("👋")
 
 
 me = AIEngineer()
