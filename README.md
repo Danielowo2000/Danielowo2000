@@ -16,7 +16,7 @@ class AIEngineer:
     def greet(self):
         print("👋")
 
-    def favorite_quote(self):
+    def message(self):
         print("I ain't seen the sun in seven days like I have been doing time.")
 
 
