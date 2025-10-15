@@ -7,7 +7,6 @@
 
 
 class AIEngineer:
-
     def __init__(self):
         self.name = "Owolabi Daniel"
         self.role = "Artificial Intelligence Engineer"
@@ -17,7 +16,7 @@ class AIEngineer:
         print("👋")
 
     def message(self):
-        print("I ain't seen the sun in seven days like I have been doing time.")
+        print("I ain't seen the sun in seven days like I have been doing time. That's how I got the Batcave built up when I'm on the grind.")
 
 
 me = AIEngineer()
